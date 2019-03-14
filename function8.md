@@ -100,11 +100,15 @@ func getPerson(value1:String) -> (name:String, age:Int?)? {
 
 var result = getPerson(value1: "20")
 print("getPerson 함수 호출 결과 -> \(result)")
-// 출력값) getPerson 함수 호출 결과 -> Optional((name: "김진수", age: Optional(20)))
-// getPerson 함수를 호출하면 투플 자료형으로 반환하므로 그 값은 nil일 수 있다. getPerson 함수에서 nil을 반환한다면 파라미터로 전달한 문자열에 숫자가 들어 있지 않는 경우이다.
+출력값) getPerson 함수 호출 결과 -> Optional((name: "김진수", age: Optional(20)))
+```
+getPerson 함수를 호출하면 투플 자료형으로 반환하므로 그 값은 nil일 수 있다. getPerson 함수에서 nil을 반환한다면 파라미터로 전달한 문자열에 숫자가 들어 있지 않는 경우이다.
 
-// 함수를 호출할 때 전달하는 파라미터로 투플을 사용할 수도 있음.
-// 다음 코드는 getCount 함수를 호출할 때 투플을 파라미터로 전달하는데 여러 개를 한꺼번에 전달할 수 있도록 가변 파라미터로 정의함.
+
+함수를 호출할 때 전달하는 파라미터로 투플을 사용할 수도 있음.
+
+다음 코드는 getCount 함수를 호출할 때 투플을 파라미터로 전달하는데 여러 개를 한꺼번에 전달할 수 있도록 가변 파라미터로 정의함.
+```swift
 func getCount(persons:(name:String, age:Int)...) -> Int {
     var count = 0
     for (_, _) in persons {
@@ -115,14 +119,21 @@ func getCount(persons:(name:String, age:Int)...) -> Int {
 
 var result2 = getCount(persons: ("김진수", 20), ("김진희", 22))
 print("getCount 함수 호출 결과 -> \(result2)")
-// 출력값) getCount 함수 호출 결과 -> 2
-// getCount 함수로 전달되는 파라미터를 보면 이름이 persons이고 그 자료형은 가변 파라미터로 정의됨.
-// 가변 파라미터는 ... 기호를 붙여서 설정했으며 그 앞에는 투플 자료형임을 알 수 있는 (name:String, age:Int) 형식의 코드가 들어 있음.
-// 이렇게 정의한 함수를 호출할 때는 여러 개의 투플 데이터를 파라미터로 넣어줄 수 있다.
-// _ 기호: 변수나 원소의 이름을 사용하지 않고 그 값의 위치만 지정함.
+출력값) getCount 함수 호출 결과 -> 2
+```
+getCount 함수로 전달되는 파라미터를 보면 이름이 persons이고 그 자료형은 가변 파라미터로 정의됨.
 
-// Quiz 11
-// 함수가 투플 자료형으로 된 가변 길이 파라미터를 갖게 만들고 반환되는 값도 투플 자료형이 되도록 정의해 보세요. 함수의 이름은 getCount로 만들고 파라미터로 전달되는 투플 안에는 name과 mobile이라는 이름의 값이 들어가도록 합니다. 그리고 그 값들은 nil 값이 될 수 있도록 옵셔널로 만듭니다. 함수 안에서는 name과 mobile의 값이 nil이 아니면 숫자를 세고 nil이면 세지 않으며, 결과 값은 두 개 만들고 하나의 투플 자료형으로 반환하도록 합니다.
+가변 파라미터는 ... 기호를 붙여서 설정했으며 그 앞에는 투플 자료형임을 알 수 있는 (name:String, age:Int) 형식의 코드가 들어 있음.
+
+이렇게 정의한 함수를 호출할 때는 여러 개의 투플 데이터를 파라미터로 넣어줄 수 있다.
+
+_ 기호: 변수나 원소의 이름을 사용하지 않고 그 값의 위치만 지정함.
+```swift
+Quiz 11
+함수가 투플 자료형으로 된 가변 길이 파라미터를 갖게 만들고 반환되는 값도 투플 자료형이 되도록 정의해 보세요. 
+함수의 이름은 getCount로 만들고 파라미터로 전달되는 투플 안에는 name과 mobile이라는 이름의 값이 들어가도록 합니다. 
+그리고 그 값들은 nil 값이 될 수 있도록 옵셔널로 만듭니다. 함수 안에서는 name과 mobile의 값이 nil이 아니면 숫자를 세고 nil이면 세지 않으며, 
+결과 값은 두 개 만들고 하나의 투플 자료형으로 반환하도록 합니다.
 
 func getCount(persons:(name:String?, mobile:String?)...) -> (Int, Int) {
     var nameCount = 0
