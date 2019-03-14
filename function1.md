@@ -55,7 +55,8 @@ show라는 이름의 함수를 만들고 함수를 실행하는 과정은 다음
 Quiz 07
 
 showName이라는 이름의 함수를 만들고 함수를 실행했을 때 여러분의 이름이 출력되도록 코드를 만들어 보세요. 먼저 showName이라는 이름으로 함수를 정의합니다. 그리고 함수 안에서 print를 사용해 여러분의 이름이 출력되도록 합니다. 이름을 출력하기 위해 name 상수에 값을 넣어 두었다가 출력 하도록 합니다.
-```swift func showName() {
+```swift 
+func showName() {
     let name : String = "소녀시대"
     print("이름 : \(name)")
 }
@@ -64,3 +65,83 @@ showName()
 
 // 출력값) 이름 : 소녀시대
 ```
+
+
+### 2_Swift program의 형태 살펴보기
+
+![그림](https://user-images.githubusercontent.com/47494240/54354355-bad56a80-4699-11e9-8598-9648659f89f8.png)
+
+함수를 정의할 때는 중괄호로 코드를 감싼다. 이렇게 중괄호로 코드를 분리한 것을 '코드 블록(Code Block)'이라고 한다. 코드 블록은 한 부분을 다른 부분과 분리시키는 역할.
+
+![그림](https://user-images.githubusercontent.com/47494240/54354356-bad56a80-4699-11e9-9b1f-11d7de1e3fd4.png)
+
+함수 상자는 위쪽 구멍으로 어떤 값이 들어가면 함수 상자의 내부가 동작하게 되고 계산한 결과 값은 아래쪽 구멍으로 내보내는 블랙박스라고 생각할 수 있다.
+
+더하기 함수를 예로 들면 아래와 같은 모양을 머릿속으로 그려볼 수 있다.
+
+![그림](https://user-images.githubusercontent.com/47494240/54354357-bad56a80-4699-11e9-8849-e43bc4bac8c0.png)
+
+그림을 보면 함수 상자의 위쪽으로는 두 개의 숫자가 들어가고 함수 상자의 아래쪽으로 하나의 숫자가 나온다.
+
+
+## 3_함수와 파라미터
+
+
+#### 1 부터 10까지 더하는 코드 만들기
+
+```swift
+func show2() {
+    var count = 0
+    
+    count = count + 1
+    count = count + 2
+    count = count + 3
+    count = count + 4
+    count = count + 5
+    count = count + 6
+    count = count + 7
+    count = count + 8
+    count = count + 9
+    count = count + 10
+    
+    print("result of adding 1 to 10 : \(count)")
+}
+
+show2()
+
+출력값) result of adding 1 to 10 : 55
+```
+코드의 양이 많아지긴 했지만 중괄호 안에 들어간 각 줄의 코드는 모두 똑같은 모양으로 반복되므로 쉽게 이해할 수 있다.
+이 코드에서 func 키워드를 show2 앞에 붙여서 함수를 하나 만들었고 그 아래에서 이 함수를 실행하고 있다.
+
+
+#### 반복되는 코드를 for 문으로 단순화하기
+
+1부터 10까지는 위와 같이 함수를 만들었지만 1부터 100까지라면 코드 양이 너무 많아지므로 반복문을 사용하여 간결하게 만들수 있다.
+for 문으로 간결하게 만들어 보겠다.
+```swift
+1부터 10까지 더한 값 출력 for in 반복문(loof) 사용
+
+func show3() {
+    var count = 0
+    
+    for i in 1 ..< 11 {
+        count = count + i
+    }
+    
+    print("1부터 10까지 더한 결과 : \(count)")
+}
+
+show3()
+
+출력값) 1부터 10까지 더한 결과 : 55
+```
+55라는 결과가 동일하게 나온다. 이렇게 for 문을 사용하면 똑같이 반복되는 코드를 줄일 수 있다.
+
+for 문은 조건을 넣은 후 그 뒤에 오는 중괄호 안에 반복할 코드를 넣는 형식을 가진다.
+
+중괄호 안에 들어 있는 코드가 여러 번 반복되므로 '반복문(Loop)'이라고 부른다.
+
+for 키워드 뒤에 in 이라는 연산자를 사용한다.
+
+![그림](https://user-images.githubusercontent.com/47494240/54357774-24f20d80-46a2-11e9-96bf-dea9e3c9ed3e.png)
