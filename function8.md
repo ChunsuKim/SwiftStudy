@@ -14,7 +14,8 @@ var person:(name:String, age:Int) = ("김진수", 20)
 
 var person:(String, Int)
 ```
-```swift let value1 = (10, "안녕!", Float(2.4), true)
+```swift 
+let value1 = (10, "안녕!", Float(2.4), true)
 print("value1 투플의 값 -> \(value1)")
 
 출력값) value1 투플의 값 -> (10, "안녕!", 2.4, true)
@@ -42,7 +43,8 @@ print("value3 투플의 첫 번째 원소 -> \(value3.0)")
 두 개의 정수 값으로 구성된 투플을 x와 y라는 이름을 가진 투플 상수나 변수로 할당할 때 변수나 상수의 이름은 부여하지 않고 원소의 이름만 선언하는 것도 가능함.
 앞에서 만든 코드는 아래와 같이 변경할 수 있다.
 
-```swift let value4 : (Int, Int) = (10, 10)
+```swift 
+let value4 : (Int, Int) = (10, 10)
 let (x, y) = value4
 print("투플 안의 x 값 -> \(x)")
 
