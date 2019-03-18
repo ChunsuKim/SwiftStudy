@@ -100,17 +100,21 @@ class Person1 {
 }
 
 var person02 = Person1(name: "철수", height: 1.7, weight: 49.5)
-print("BMI 값 -> \(person01.bmi)")
+print("BMI 값 -> \(person02.bmi)")
 
-person01.bmi = 18
-print("BMI 값 -> \(person01.bmi)")
+person02.bmi = 18
+print("BMI 값 -> \(person02.bmi)")
 
-person01.bmi = 22
-print("BMI 값 -> \(person01.bmi)")
+person02.bmi = 22
+print("BMI 값 -> \(person02.bmi)")
 
-출력값) BMI 값 -> 19.39394
-출력값) BMI 값 -> 14.705882
-출력값) BMI 값 -> 19.39394
+출력값) BMI 값 -> 0.0
+출력값) bmi willSet 호출됨 -> 18.0
+출력값) bmi didSet 호출됨 -> 18.0, 0.0
+출력값) BMI 값 -> 18.0
+출력값) bmi willSet 호출됨 -> 22.0
+출력값) bmi didSet 호출됨 -> 22.0, 18.0
+출력값) BMI 값 -> 22.0
 ```
 bmi 변수는 Float 자료형으로 선언되었으며 그 뒤에 = 기호를 붙인 후 0.0이라는 값으로 초기 값을 할당했다.
 그리고 그 뒤에 중괄호를 붙인 후 중괄호 안에 willSet과 didSet이라는 속성 옵저버를 포함시켰다. willSet은 전달되는 파라미터를 bmi라는 이름으로 정의했다.
