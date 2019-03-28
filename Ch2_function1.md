@@ -147,4 +147,8 @@ for 키워드 뒤에 in 이라는 연산자를 사용한다.
 ![그림](https://user-images.githubusercontent.com/47494240/54357774-24f20d80-46a2-11e9-96bf-dea9e3c9ed3e.png)
 
 
+[Ch2_function2.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/Ch2_function2.md)
+
 [Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
+
+
