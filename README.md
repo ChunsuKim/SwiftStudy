@@ -12,7 +12,7 @@
 
 ### Chapter 2 Function(함수) 
 
-### Ch_2 function1.md ~ Ch_2 function8.md
+> ### Ch_2 function1.md ~ Ch_2 function8.md
 
 1. 함수의 정의
 2. Swift program의 형태
@@ -32,7 +32,7 @@
 
 ### Chapter 3 Operator(연산자) and if(조건문) 
 
-### Ch_3 operator1.md ~ Ch_3 operator4.md
+> ### Ch_3 operator1.md ~ Ch_3 operator4.md
 
 1. Comparative Operator(비교 연산자)와 Arithmetic Operator(산술 연산자)
    - 동일 연산자
@@ -49,7 +49,7 @@
 
 ### Chapter 4 Class(클래스) and Structure(구조체)
 
-### Ch4_classes1.md ~ Ch4_classes9.md
+> ### Ch4_classes1.md ~ Ch4_classes9.md
 
 1. 함수를 다시 한 번 꼼꼼히 생각해 보기
 2. 클래스의 역할
@@ -70,13 +70,13 @@
 
 ### Chapter 5 여러 데이터를 논리에 맞게 처리하기
 
-### Ch5_Array1.md ~ / 
-
-### Ch5_dictionary1.md ~ / 
-
-### Ch5_set1.md ~ / 
-
-### Ch5_if1.md/ Ch5_for1.md/ Ch5_while1.md/ Ch5_switch1.md/ Ch5_guard1.md
+> ### Ch5_Array1.md ~ / 
+>
+> ### Ch5_dictionary1.md ~ / 
+>
+> ### Ch5_set1.md ~ / 
+>
+> ### Ch5_if1.md/ Ch5_for1.md/ Ch5_while1.md/ Ch5_switch1.md/ Ch5_guard1.md
 
 1. Array 여러 데이터를 한꺼번에 넣어두기
    - 여러 데이터를 각각의 변수에 넣기
@@ -103,7 +103,7 @@
 
 ### Chapter 6 일급 객체로서의 function(함수)와 closure(클로저) 다루기 
 
-### Ch6_advanced1.md ~ Ch6_advanced6.md
+> ### Ch6_advanced1.md ~ Ch6_advanced6.md
 
 1. 함수는 변수에 할당할 수 있어요
    - 함수를 변수에 할당하기
@@ -119,11 +119,11 @@
 
 ### Inheritance(상속)과 Protocol(프로토콜) 
 
-### Ch7_inheritance1.md ~ Ch7_inheritance4.md 
-
-### Ch7_typecasting1.md/ Ch7_generic1.md 
-
-### Ch7_protocol1.md ~ Ch7_protocol3.md
+> ### Ch7_inheritance1.md ~ Ch7_inheritance4.md 
+>
+> ### Ch7_typecasting1.md/ Ch7_generic1.md 
+>
+> ### Ch7_protocol1.md ~ Ch7_protocol3.md
 
 1. Inheritance(상속)
    - 상속의 의미
