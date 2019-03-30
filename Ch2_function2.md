@@ -171,7 +171,7 @@ print("곱하기 결과 : \(result)")
 ```
 
 
-[Ch2_function3.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/Ch2_function3.md)
+[Ch2_function2.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch2_function3.md)
 
 
 
