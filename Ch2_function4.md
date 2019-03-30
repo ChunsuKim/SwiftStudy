@@ -35,6 +35,6 @@ add2 함수의 파라미터를 보면 a라는 이름 앞에 firstNum라는 이�
 
 
 
-
+[Ch2_function2.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch2_function5.md)
 
 [Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
