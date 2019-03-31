@@ -162,3 +162,8 @@ print("나누기 결과 : \(result1), \(result2)")
 
 출력값) 나누기 결과 : Optional(2), nil
 ```
+
+
+[Ch2_function8.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch2_function8.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
