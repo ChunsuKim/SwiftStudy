@@ -100,3 +100,8 @@ if !(name is String) || !(age is String) {
 
 출력값) 문자열 자료형이 아닌 것이 있습니다.
 ```
+
+
+[Ch3_operator3.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch3_operator3.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
