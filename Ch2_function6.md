@@ -79,3 +79,8 @@ print("더하기 결과 : \(result)")
 
 출력값) 더하기 결과 : 100
 ```
+
+
+[Ch2_function7.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch2_function7.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
