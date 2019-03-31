@@ -223,13 +223,7 @@ if 문의 조건에 들어가는 코드를 보면 두 개의 == 연산자가 사
 if 문의 소괄호 사이에 || 연산자를 사용하니 true 결과 값이 출력되고 중괄호 안의 코드가 실행된다.
 논리 연산자를 정리하면 다음 표와 같다.
 
-[표] 논리 연산자
-
-| 연산자  | 설 명                                          | 사용 예(a=10, b=7일 때) | 결 과 |
-|:-----:|:---------------------------------------------:|:--------------------:|:----:|
-|  &&   | 두 개의 피연산자 모두 true이면 true                 | (a < 11 && b > 6)    | true  |
-|  +=   | 두 개의 피연산자 중 하나라도 true이면 true            | (a == 11 || b == b   | false |
-|  !    | 오른쪽 피연산자가 true이면 false가 되고 false이면 true | !(a == b)            | true  |
+![표](https://user-images.githubusercontent.com/47494240/55286207-87057f00-53d3-11e9-84af-c7902444bcfd.png)
 
 ```swift
 let userId2 = "test2"
@@ -268,3 +262,8 @@ if name == nil || age == nil {
 
 출력값) nil이 있습니다.
 ```
+
+
+[Ch3_operator2.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch3_operator2.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
