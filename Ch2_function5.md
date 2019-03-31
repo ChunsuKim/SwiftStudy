@@ -34,3 +34,9 @@ sum 함수 안에서는 for 문을 사용하고 있는데 values 파라미터 �
 
 마지막으로 return 키워드를 사용해 함수 상자 밖으로 값을 던져준다.
 이렇게 만든 sum 함수를 호출할 때는 소괄호 안에 values라는 파라미터 이름을 지정한 후 원하는 개수만큼 숫자를 넣어줄 수 있다.
+
+
+
+[Ch2_function6.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch2_function6.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
