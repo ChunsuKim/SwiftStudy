@@ -154,3 +154,8 @@ dog1.walk()
 
 출력값) 미미 강아지가 걸어갑니다.
 ```
+
+
+[Ch4_classes2_1.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes2_1.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
