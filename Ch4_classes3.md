@@ -60,3 +60,8 @@ Friend 클래스는 단순히 name 속성만을 가지고 있는데 init 함수�
 Person 객체의 인스턴스를 만들어 person01 변수에 할당한 후 walk 함수를 호출했지만 group 변수에 할당될 Friend 객체는 만들어지지 않았다.
 이것은 'Friend:init 호출됨.'이라는 메시지가 출력되지 않은 것을 보면 알 수 있다. 이 객체는 person01.group 변수를 참조할 때 초기화되어 만들어진다.
 이렇게 값이 늦게 만들어지기 때문에 lazy라는 단어를 붙인다고 기억하면 좋다.
+
+
+[Ch4_classes4.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes4.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
