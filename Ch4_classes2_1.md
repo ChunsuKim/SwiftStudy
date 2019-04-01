@@ -190,3 +190,8 @@ if dog1 === dog2 {
 
 출력값) dog1과 dog2는 다릅니다.
 ```
+
+
+[Ch4_classes3.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes3.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
