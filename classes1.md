@@ -187,3 +187,8 @@ print("강아지의 이름 : \(dog1.name)")
 
 철수, 영희, 민희라는 각각의 객체를 만들려면 공통으로 들어 있는 이름 변수나 걷기, 뛰기 함수를 매번 넣어주어야 한다.
 이 과정에서 코드가 중복 입력되므로 우선 사람 객체를 만들 수 있는 클래스라는 틀을 만들고 그 틀에서 각각의 사람을 찍어 내듯이 만드는 것이 훨씬 효율적이다.
+
+
+[Ch4_classes2_0.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes2_0.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
