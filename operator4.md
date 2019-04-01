@@ -126,3 +126,8 @@ print("미성년자 여부 : \(minor)")
 
 출력값) 미성년자 여부 : false
 ```
+
+
+[Ch4_classes1.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes1.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
