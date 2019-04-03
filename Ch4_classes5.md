@@ -175,3 +175,8 @@ print("\(dog1.name) 강아지의 나이 : \(dog1.age)")
 
 출력값) Optional("미미") 강아지의 나이 : 28
 ```
+
+
+[Ch4_classes6.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes6.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
