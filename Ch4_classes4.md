@@ -122,3 +122,8 @@ bmi 변수는 Float 자료형으로 선언되었으며 그 뒤에 = 기호를 �
 
 속성 옵저버는 어떤 용도로 사용할 수 있을까?
 속성 옵저버는 어떤 속성에 값을 넣기 전이나 후에 필요한 작업을 할 수 있으므로 예상하지 못했던 값이 속성에 할당되는지 감시하다가 잘못된 값이 들어오면 오류가 발생하지 않도록 만들 수 있다.
+
+
+[Ch4_classes5.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes5.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
