@@ -61,6 +61,21 @@
  
  이 과정에서 Exit 아이콘에 버튼을 연결하는 것은 뷰 컨트롤러 B이지만, Unwind Segue 메소드를 만들어야 하는 곳은 뷰 컨트롤러 A입니다. 이 점에 유의하기 바랍니다.
  
+ **Practice**
+ 
+ 1. Project를 생성한 후 ViewController를 하나 더 추가합니다. 원래 있던 ViewController 1개와 새로 생성한 ViewController 1개 해서 총 2개가 있으면 됩니다. 그후에 각각 ViewController에 레이블과 버튼을 1개씩 추가합니다. 레이블에는 각각 Page 1, Page 2라고 입력합니다. 버튼에는 Next와 Unwind라고 입력합니다.
+ 
+ 2. Page 1의 버튼을 Ctrl 키를 누른상태에서 두번째 ViewController로 드래그하여 세그웨이를 생성합니다. 세그웨이 타입은 Present Modally로 합니다.
+ 
+ 3. Page 1에 연결된 ViewController.swift를 열고 아래와 같이 unwindToViewController 메소드를 정의합니다. unwind라고 입력하면 자동생성되는 메소드가
+ 출력됩니다. 그 부분에서 name 부분을 ViewController라고 입력하고 나머지 부분(let sourceViewController = unwindSegue.source)은 삭제하면 됩니다. name 부분은 본인이 아무거나 정해도 됩니다.
+ ```swift
+ @IBAction func unwindToViewController(_ unwindSegue: UIStoryboardSegue) {
+ }
+ ```
+ 
+ 4. 이제 Unwind Segue를 연결할 차례입니다. Page 2에 추가된 버튼을 <Ctrl> + 드레그하여 상단의 Exit 아이콘으로 연결하고, 이어서 표시되는 선택창에서는 'unwindToViewController' 메소드를 선택합니다.
+ 
  
  ### Unwide Segue를 이용하여 한꺼번에 여러 페이지 복귀하기
  
@@ -69,6 +84,8 @@
  그런데 실제로 사용되는 앱은 우리가 만들어 본 것처럼 화면이 단 두개로 연결되는 것이 아니라 여러 페이지에 걸쳐 단계적으로 이동하는 경우가 많습니다. 여러 페이지를 단계적으로 이동한 경우 가장 첫 화면, 즉 홈으로 돌아가려면 어떻게 해야 할까요? 그리고 만약 중간에 있던 화면으로 돌아가려면 어떻게 해야 할까요?
  
  가장 단순하게는 진행해 왔던 화면 이동 과정을 역으로 전환하면서 화면마다 뒤로 가기 버튼을 계속 눌러주는 방식을 떠올려 볼 수 있습니다. 하지만 이건 참 불편한 방식입니다. 특히 사용자 경험을 중요하게 여기는 모바일 앱은 더욱 그러합니다.
+ 
+ **Practice**
  
  1. View Controller를 선택하고 Xcode 메뉴에서 Editor -> Embed In -> Navigation Controller를 차례로 클릭하여 View Controller 앞에 내비게이션 컨트롤러를 삽입합니다.
  
