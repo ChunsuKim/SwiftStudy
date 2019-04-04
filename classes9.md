@@ -88,3 +88,8 @@ dog1.toString()
 
 출력값) 강아지 Optional("미미")의 나이는 2입니다.
 ```
+
+
+[Ch5_array1.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_array1.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
