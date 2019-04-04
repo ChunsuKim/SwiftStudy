@@ -81,3 +81,6 @@ person1 변수는 Person 자료형으로 선언되었으며 createPerson 함수�
 그런데 코드를 잘 보면 if 문 안에서 비교하는 과정이 여러 번 중복된다. 만약 사람 객체를 100명 정도 만들고 싶다면 100개의 상수를 선언하고 if 문 안에서 100번씩이나 비교해야 할까?
 
 
+[Ch5_array2.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_array2.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
