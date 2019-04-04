@@ -46,3 +46,8 @@ CarSize 열거형에 들어가는 값들은 문자열을 값으로 가지도록 
 ```swift
 열거형변수이름.rawValue
 ```
+
+
+[Ch4_classes9.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes9.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
