@@ -78,3 +78,8 @@ if names.isEmpty { ... }
 여러 데이터를 배열에 저장하니 코드가 많이 줄어들어 효율적이라는 생각이 들 것이다.
 하지만 코드가 줄어든 만큼 인덱스 값을 계산하거나 변수에 들어 있는 값이 몇 번째 값인지 머릿속으로 잘 기억하고 있어야 오류가 없는 코드를 만들 수 있다.
 따라서 배열을 사용하는 코드를 잘 해석해 보고 반복적으로 연습해서 익숙해지는 것이 좋다.
+
+
+[Ch5_array4.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_array4.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
