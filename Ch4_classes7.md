@@ -77,3 +77,8 @@ if 뒤에 오는 조건에서는 Female인지 비교한 다음 맞으면 '여자
 이것은 if 문이 여러 가지 조건을 비교할 수 있으며 if ~ else, if ~ else if 와 같은 형태로 사용할 수 있기 때문에 가능하다.
 따라서 열거형 안에 정의한 값이 여러 개일 경우 각각의 값을 연속해서 비교할 수 있다.
 
+
+
+[Ch4_classes8.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes8.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
