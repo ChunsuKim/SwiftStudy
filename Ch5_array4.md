@@ -162,3 +162,8 @@ ages[2] = 28
 ages[1..<3] = [29, 31]
 ```
 배열 객체에 값을 넣거나 빼는 경우가 많으므로 지금까지 살펴보았던 append나 insert 함수들에 익숙해져야 합니다. 따라서 코드와 친해질 때까지 여러 번 입력해 보길 바란다.
+
+
+[Ch5_array5.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_array5.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
