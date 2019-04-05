@@ -74,3 +74,8 @@ print("가족 구성원의 수는? : \(members.count)")
 출력값) 빼낸 마지막 가족 구성원은? : 누나
 출력값) 가족 구성원의 수는? : 5
 ```
+
+
+[Ch5_array6.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_array6.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
