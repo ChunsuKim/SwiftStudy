@@ -66,3 +66,8 @@ for i in 0..<phonebook.count {
 
 하나의 배열을 다룰 때도 그랬지만 특히나 2차원 배열은 머릿속에서 어떤 모양으로 배열이 만들어지며, 그 안에 있는 원소들을 어떻게 가져오거나 넣을 수 있는지 잘 생각해야 한다.
 처음에는 조금 복잡하게 느껴지겠지만 몇 번 입력해 보면 점점 익숙해질 것이다.
+
+
+[Ch5_dictionary1.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_dictionary1.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
