@@ -94,3 +94,8 @@ for (key, value) in girls.sorted(by: {$0.0 < $1.0}) {
 그런데 출력된 결과를 보면 키가 숫자로 되어 있는데도 7, 2, 3, 1과 같이 순서가 제멋대로이다. 딕셔너리는 해시테이블의 성격을 갖고 있기 때문에 키로만 구분될 뿐 정렬되지는 않는다.
 만약 정렬된 결과를 출력하고 싶다면 sort 메소드를 호출하면 된다. sort 메소드로 넘겨주는 파라미터에는 클로저를 전달하며 그 안에 $ 표시가 들어간 코드를 입력한다.
 클로저는 다음 장에서 자세히 살펴보겠다. 
+
+
+[Ch5_dictionary2.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_dictionary2.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
