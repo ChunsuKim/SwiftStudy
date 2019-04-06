@@ -47,3 +47,8 @@ print("persons 딕셔너리의 원소 개수 : \(persons.count)")
 새로운 Person 객체는 Person 클래스 이름 뒤에 소괄호를 붙인 후 그 안에 names, ages, mobiles 변수에 들어 있는 값을 하나씩 전달하여 만들어 낸다.
 persons 변수는 키가 문자열이고 값이 Person 자료형인 딕셔너리로 선언했으며 세 개의 인스턴스 객체를 만들어 persons 딕셔너리에 추가했다.
 코드를 실행하면 위의 출력값 같이 딕셔너리 안에 세 개의 인스턴스 객체가 들어간 것을 확인할 수 있다.
+
+
+[Ch5_dictionary3.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_dictionary3.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
