@@ -14,13 +14,16 @@ class ViewController: UIViewController, UITextFieldDelegate {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // TextField 속성 설정
+        // TextField 속성 설정 (self 생략가능)
         self.tf.placeholder = "값을 입력하세요"    // 안내 메세지
         self.tf.textAlignment = .center        // 안내 메세지 및 키보드 입력시작 가운데 정렬
         self.tf.keyboardType = UIKeyboardType.alphabet  // 키보드 타입 영문자 패드로
         self.tf.keyboardAppearance = UIKeyboardAppearance.dark  // 키보드 스타일 어둡게
         self.tf.returnKeyType = UIReturnKeyType.join    // 리턴키 타입은 "Join"
         self.tf.enablesReturnKeyAutomatically = true    // 리턴키 자동 활성화 "On"
+        self.tf.keyboardType = UIKeyboardType.emailAddress     // 이메일 입력모드로 키보드 적용
+        self.tf.clearButtonMode = UITextField.ViewMode.always   // 텍스트필드 내부에 클리어 버튼 표시
+        self.tf.isSecureTextEntry = true    // 텍스트를 입력할때 그전 문자를 보안처리(***) 해주는 모드
         
         /**
         * 스타일 설정
