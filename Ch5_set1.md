@@ -51,3 +51,8 @@ for name in names {
 ```
 names 셋에 정의되어 있는 insert 메소드를 호출하여 원소를 하나 추가했다. 그리고 for ~ in 구문을 사용해 모든 원소의 값을 출력했다.
 이때 for 문 밖에 index라는 이름의 변수를 하나 선언하고 for 문 안에서 그 값을 1씩 증가시킴으로써 현재 출력하는 원소가 몇 번째 원소인지 확인할 수 있도록 했다.
+
+
+[Ch5_set2.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_set2.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
