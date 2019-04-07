@@ -1,12 +1,19 @@
 
  # UserDefaults 객체를 사용하여 값을 주고받기
  
+ 
+ [SubmitValue-Back폴더의 project 참조](https://github.com/ChunsuKim/SwiftStudy/tree/master/SubmitValue-Back/SubmitValue-Back)
+
+
+ 
  코코아 터치 프레임워크에서 제공하는 UserDefaults 객체를 통해 값을 주고 받는 방법을 알아보겠습니다.
  이 객체를 이용하면 앱을 삭제하기 전까지는 저장된 값이 반영구적으로 유지된다는 장점이 있습니다. 때문에 이 객체에는 비교적 단순하면서도 값이 유지되어야 하는 로그인 여부나 간단한 설정 정보 등을 저장하는 경우가 많습니다.
  
  내부적으로 plist 파일을 이용하여 값을 저장하는 UserDefaults 객체는 본래 NSData, NSString, NSNumber, NSArray, NSDictionary 타입의 값만 저장할 수 있었으며, 다른 클래스 타입의 객체를 저장하려면 직렬화 과정을 거쳐야 했습니다. 하지만 스위프트 언어가 코코아 터치 프레임워크에 반영되면서 스위프트에서 제공하는 기본 자료형까지 UserDefaults 객체에서 그대로 저장할 수 있게 되었습니다.
  
  먼저 FormViewController.swift 파일을 열어 onSubmit() 메소드의 내용을 다음과 같이 변경합니다.
+ 
+  [SubmitValue-Back폴더의 FormViewController.swift 참조](https://github.com/ChunsuKim/SwiftStudy/blob/master/SubmitValue-Back/SubmitValue-Back/FormViewController.swift)
  
 ```swift
 import UIKit
@@ -35,6 +42,8 @@ class FormViewController: UIViewController {
  UserDefaults.standard 프로퍼티를 통해 얻어온 UserDefaults 객체의 인스턴스를 ud 상수에 저장하고, set(_:forKey:) 메소드를 사용하여 값을 저장합니다. UserDefaults 객체에는 스위프트 기본 자료형을 그대로 저장할 수 있으므로 값의 타입을 변경해줄 필요가 없습니다. UserDefaults에 저장한 객체는 함께 저장된 키를 통해 구분되는데, 이를 위해 "email", "isUpdate", "interval"을 각각 넣어주고 있습니다. 이렇게 값을 저장한 다음 마찬가지로 아무일 없었다는 듯이 화면을 복귀 처리하면 끝입니다.
  
  다음으로 값을 꺼내는 코드를 작성해보겠습니다. ViewController.swift 파일을 열고 viewWillAppear(_:) 메소드의 내용을 다음과 같이 수정합니다.
+ 
+  [SubmitValue-Back폴더의 ViewController.swift 참조](https://github.com/ChunsuKim/SwiftStudy/blob/master/SubmitValue-Back/SubmitValue-Back/ViewController.swift)
  
 ```swift
 //화면이 표시될 때마다 호출되는 메소드
@@ -71,3 +80,6 @@ override func viewWillAppear(_ animated: Bool) {
  
  UserDefaults 객체에 값을 저장하고 나면, 앱을 종료하고 다시 열게 되어도 첫 화면부터 값이 표시됩니다. 이 값은 UserDefaults 객체에 저장되어 있는 값이죠. 이렇게 저장된 값은 앱을 삭제하기 전까지는 유지되지만, 일단 앱을 삭제하고 나면 함께 제거된다는 점에 주의해야 합니다.
  
+
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
