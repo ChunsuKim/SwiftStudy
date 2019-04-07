@@ -93,3 +93,7 @@ for (key, value) in members {
 출력값) 구성원 나 -> 김현민
 출력값) 구성원 누나 -> 김선희
 ```
+
+[Ch5_set1.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_set1.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
