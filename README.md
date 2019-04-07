@@ -117,7 +117,7 @@
 
 
 
-### Inheritance(상속)과 Protocol(프로토콜) 
+### Chapter 7 Inheritance(상속)과 Protocol(프로토콜) 
 
 > ### Ch7_inheritance1.md ~ Ch7_inheritance4.md 
 >
