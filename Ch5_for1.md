@@ -43,7 +43,7 @@ in 뒤의 벼열에 들어 있는 각각의 원소들이 in 앞에 있는 value�
 in 뒤에 딕셔너리를 넣으면 어떻게 될까? 딕셔너리에 들어 있는 각각의 원소를 in 앞에 있는 변수에 하나씩 할당하면서 중괄호 안의 코드를 반복하게 된다.
 이때 in 앞에는 각 원소의 키(Key)와 값(Value)이 함께 들어 있어야 한다. 따라서 투플 형식으로 받아 사용한다. 다음 코드를 입력하면서 어떤 형태로 코드를 만드는지 확인해 보자.
 ```swift
-var orders = [1:"첫 번쨰", 2:"두 번쨰", 3:"세 번쨰", 4:"네 번쨰", 5:"다섯 번쨰"]
+var orders = [1:"첫 번째", 2:"두 번째", 3:"세 번째", 4:"네 번째", 5:"다섯 번째"]
 for (key, value) in orders {
     print("for ~ in 딕셔너리 원소 : \(key), \(value)")
 }
@@ -53,11 +53,11 @@ for ch in message.characters {
     print("for ~ in 문자열 : \(ch)")
 }
 
-출력값) for ~ in 딕셔너리 원소 : 1, 첫 번쨰
-      for ~ in 딕셔너리 원소 : 4, 네 번쨰
-      for ~ in 딕셔너리 원소 : 5, 다섯 번쨰
-      for ~ in 딕셔너리 원소 : 2, 두 번쨰
-      for ~ in 딕셔너리 원소 : 3, 세 번쨰
+출력값) for ~ in 딕셔너리 원소 : 1, 첫 번째
+      for ~ in 딕셔너리 원소 : 4, 네 번째
+      for ~ in 딕셔너리 원소 : 5, 다섯 번째
+      for ~ in 딕셔너리 원소 : 2, 두 번째
+      for ~ in 딕셔너리 원소 : 3, 세 번째
       for ~ in 문자열 : 안
       for ~ in 문자열 : 녕
       for ~ in 문자열 : 하
@@ -72,3 +72,9 @@ for ~ in 구문의 in 뒤에는 문자열 안에 들어 있는 문자들을 넣�
 이 방식은 많이 사용된다기보다는 문자열 안에 들어 있는 각각의 문자를 확인할 때 편리하게 사용할 수 있는 코드라고 할 수 있다. 코드를 실행하면 위의 출력값 같은 결과를 확인할 수 있다.
 for ~ in 구문은 스위프트에서 자주 사용되므로 형식을 잘 기억하는 것이 좋다.
 
+
+
+
+[Ch5_while1.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_while1.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
