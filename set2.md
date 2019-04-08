@@ -66,3 +66,8 @@ for name in members {
 출력값) 가족 구성원 #3 -> 엄마
 출력값) 가족 구성원 #4 -> 아빠
 ```
+
+
+[Ch5_if1.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_if1.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
