@@ -90,3 +90,6 @@ if let dog1 = createDog(name: "미미", age: 1) {
 출력값) 만들어진 강아지 객체 : 미미
 ```
 
+[Ch6_advanced1.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch6_advanced1.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
