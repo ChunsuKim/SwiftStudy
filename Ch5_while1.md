@@ -42,3 +42,8 @@ repeat {
 ```
 while 뒤에는 true가 있어 중괄호 안의 코드는 무한 반복된다.
 하지만 repeat ~ while 구문이 시작되기 전에 i 변수의 값을 0으로 초기화시키고 중괄호 안에서 i 변수의 값을 1씩 증가시키다가 i 변수의 값이 5보다 커지면 break 키워드를 사용해 중괄호를 빠져나가게 설정했으므로 여섯 번만 반복된다.
+
+
+[Ch5_switch1.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_switch1.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
