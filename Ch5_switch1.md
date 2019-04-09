@@ -95,3 +95,8 @@ default:
 ```
 case 뒤에 들어 있는 비교 대상을 보면, score 변수에 있는 투플의 값을 비교하여 첫 번째 값이 0보다 크면 (x, y)로 바인딩하도록 하였다.
 코드를 실행하면 위의 출력값 같은 결과를 볼 수 있다.
+
+
+[Ch5_guard1.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_guard1.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
