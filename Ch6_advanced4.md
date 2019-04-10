@@ -141,3 +141,8 @@ calcPower 함수가 실행될 때마다 이 stored 변수의 값이 증가되므
 이 때문에 특정 함수가 특정 변수를 독점적으로 사용할 수 있다. 뿐만 아니라 클로저 함수가 메모리에서 사라지지만 않는다면 특정 변수를 메모리에 계속 유지시키면서 반복적으로 사용할 수 있다.
 이런 장점들을 활용해 볼 수 있는 기회가 나중에 생길 것이다.
 
+
+
+[Ch6_advanced5.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch6_advanced5.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
