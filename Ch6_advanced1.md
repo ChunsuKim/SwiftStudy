@@ -114,3 +114,8 @@ typealias Void = ()
 사실 함수 이름 뒤에 붙이는 소괄호는 함수를 구별하는 중요한 기호이다. 함수를 정의할 때는 함수 이름과 소괄호, 그리고 중괄호가 있어야 한다.
 그리고 함수를 호출할 때는 함수 이름과 소괄호가 있어야 한다. 따라서 함수를 구별할 목적 이외에 소괄호가 다른 용도로 자주 사용되면 코드를 해석할 때 혼동될 수 있다.
 따라서 ()보다는 Void 키워드를 사용하는 것이 더 좋을 때가 많다.
+
+
+[Ch6_advanced2.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch6_advanced2.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
