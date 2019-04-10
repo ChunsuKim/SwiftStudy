@@ -81,3 +81,8 @@ sum(start: start, end: end, callback: callback)
 
 출력값) 결과 : 55
 ```
+
+
+[Ch6_advanced4.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch6_advanced4.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
