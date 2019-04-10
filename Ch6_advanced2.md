@@ -121,3 +121,6 @@ success라는 이름으로 전달되는 함수는 중괄호 안에 () -> Void �
 fail이라는 이름의 함수도 마찬가지이다.
 
 
+[Ch6_advanced3.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch6_advanced3.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
