@@ -145,3 +145,7 @@ student1.sleep()
 출력값) 학생 김현수이(가) 자고 있습니다.
 ```
 
+
+[Ch7_inheritance3.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch7_inheritance3.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
