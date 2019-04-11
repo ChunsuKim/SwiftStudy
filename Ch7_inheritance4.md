@@ -110,3 +110,6 @@ student1.walk()
       학생 김재학이(가) 걸어갑니다.
 ```
 
+[Ch7_typecasting1.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch7_typecasting1.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
