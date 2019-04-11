@@ -100,3 +100,8 @@ show4()
 
 출력값) 결과 : 100
 ```
+
+
+[Ch7_inheritance1.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch7_inheritance1.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
