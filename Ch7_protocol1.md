@@ -130,3 +130,8 @@ FriendCalculator 클래스를 사용해서 만든 인스턴스 객체를 Calcula
 실제 코드를 구현하는 것은 클래스가 해야 하는 일이지만 프로토콜을 통해서만 메소드를 호출할 수 있다.
 따라서 그 클래스의 인스턴스 객체를 만들어 사용하더라도 인터페이스에 정의된 메소드만 알면 충분히 사용할 수 있다는 것을 이해했을 것이다.
 프로토콜은 구조체에도 사용할 수 있다. 하나의 구조체를 만들고 하나 또는 여러 개의 프로토콜을 준수하도록 직접 만들어보기 바란다.
+
+
+[Ch7_protocol2.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch7_protocol2.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
