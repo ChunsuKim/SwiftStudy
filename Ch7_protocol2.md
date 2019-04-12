@@ -76,3 +76,8 @@ var 변수이름 : 자료형 { get set }
 
 duration 속성은 클래스 안에 저장 속성으로 추가할 수도 있고 계산 속성으로 추가할 수도 있다.
 
+
+
+[Ch7_protocol3.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch7_protocol3.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
