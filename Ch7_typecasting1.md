@@ -177,3 +177,9 @@ dict1 변수는 딕셔너리로 만들어졌는데 키는 String, 값은 Any 자
 코드를 실행하면 위의 출력값 같이 배열과 딕셔너리가 정상적으로 만들어진 것을 확인할 수 있다.
 
 Any나 AnyObject 자료형을 배열이나 딕셔너리를 선언할 때 사용하면 편리한 점이 많다. 하지만 너무 자주 사용하면 매번 형 변환을 해야 할 수 있으므로 상황에 맞게 사용하는 것이 좋다.
+
+
+
+[Ch7_generic1.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch7_generic1.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
