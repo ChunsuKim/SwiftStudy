@@ -137,3 +137,8 @@ team1 = nil
  코드를 실행하면 위의 출력값 같이 team1 객체가 해제되면서 그 안에 속성으로 들어 있던 person 객체도 해제되었음을 알 수 있다.
  
  그런데 ARC가 객체들을 관리하면서 필요할 때마다 자동으로 메모리에서 객체를 없애주는데 왜 굳이 이런 내용들을 살펴봐야 할까? 이제부터 설명할 강한 순환 참조와 약한 참조 때문이다.
+
+
+[Ch8_arc2.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch8_arc2.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
