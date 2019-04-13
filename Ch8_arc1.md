@@ -43,7 +43,7 @@ var person1 : Person! = Person(name: "소녀시대", age: 20)
  이렇게 하면 메모리에 만들어진 Person 객체를 person1 변수가 가리키게 된다. 이 person1 변수의 자료형은 Person!로 만든다. 이렇게 !를 붙이면 nil이 할당될 수 있다.
  이때 ARC에서 관리하는 Person 객체의 레퍼런스 숫자는 1이 된다.
  
- ![그림](
+ ![그림](https://user-images.githubusercontent.com/47494240/56080576-c1dccd80-5e3d-11e9-9b50-ccfa1ce3f466.png)
  
  이렇게 ARC에서 레퍼런스 숫자를 관리하고 있는 상태에서 레퍼런스 숫자의 값이 0이 되면 그 객체는 메모리에서 해제된다. 즉, 객체가 메모리에서 없어지는 것이다.
  레퍼런스는 변수 또는 상수가 인스턴스 객체를 가리키는 것을 의미한다.
@@ -68,7 +68,7 @@ var person3 = person2
 ```
  새로운 인스턴스 객체를 만든 후 person2 변수에 할당했다. 그리고 다시 person3 변수를 만들어 할당하면 person2와 person3가 모두 그 객체를 가리키게 된다.
  
- ![그림](
+ ![그림](https://user-images.githubusercontent.com/47494240/56080577-c1dccd80-5e3d-11e9-8f58-7eb1ce8fbd2d.png)
  
  Person 클래스로부터 만들어진 인스턴스 객체를 두 개의 변수가 가리키고 있으므로 ARC에서 관리하는 레퍼런스 숫자의 값은 2가 된다.
  따라서 다음과 같이 person2 변수에 nil을 할당하더라도 person3가 가리키는 레퍼런스는 사라지지 않아서 객체는 해제되지 않는다.
