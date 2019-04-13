@@ -68,3 +68,8 @@ team1 = nil
  
  강한 순환 참조는 객체들을 메모리에 계속 유지시켜 메모리가 증가하는 현상을 만들 수 있으므로 주의해야 한다.
  
+
+
+[Ch8_arc3.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch8_arc3.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
