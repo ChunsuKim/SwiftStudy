@@ -73,3 +73,7 @@ student1.think()
 출력값) 학생 김현수이(가) 생각합니다.
 ```
 
+
+[Ch8_arc1.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch8_arc1.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
