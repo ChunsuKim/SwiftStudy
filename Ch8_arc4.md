@@ -53,3 +53,8 @@ team1 = nil
  
  unowned 를 사용할 때는 변수가 nil 이 될 수 없으므로 이런 오류가 발생할 수 있다는 점에 주의해야 한다.
  
+
+
+[Ch8_arc5.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch8_arc5.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
