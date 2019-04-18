@@ -56,3 +56,8 @@ team1 = nil
  이렇게 하면 속성으로 추가했던 객체가 메모리에서 해제되지 않던 강한 순환 참조의 문제를 해결할 수 있다.
  왜나하면 weak 키워드를 사용해 약한 참조를 만들었을 때 해당 객체는 ARC에서 필요에 따라 없앨 수 있기 때문이다.
  
+
+
+[Ch8_arc4.md 파일로 가기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch8_arc4.md)
+
+[Swift Study Contents로 돌아가기](https://github.com/ChunsuKim/SwiftStudy)
