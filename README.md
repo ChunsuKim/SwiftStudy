@@ -14,12 +14,12 @@
 
 > ### Ch_2 function1.md ~ Ch_2 function8.md
 
-1. 함수의 정의   [파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch2_function1.md)
+1. 함수의 정의   [Ch_2 function1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch2_function1.md)
 2. Swift program의 형태
 3. 함수와 파라미터
-   - 반복되는 코드를 함수로 만들기   [파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch2_function2.md)
+   - 반복되는 코드를 함수로 만들기   [Ch_2 function2.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch2_function2.md)
    - 파라미터 전달의 원칙
-4. 함수를 좀 더 자세히 알아보기
+4. 함수를 좀 더 자세히 알아보기     [Ch_2 function3.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch2_function3.md)
    - 파라미터 기본 값 지정하기
    - 내부 파라미터와 외부 파라미터
    - 가변 파라미터
