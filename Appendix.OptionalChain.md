@@ -25,9 +25,9 @@ var boy: Human? = Human(name: "홍길동", man: true)
 
 ```swift
 if boy != nil {
-if boy!.name != nil {
-print("이름은 \(boy!.name!)입니다")
-}
+    if boy!.name != nil {
+        print("이름은 \(boy!.name!)입니다")
+    }
 }
 ```
 
@@ -35,9 +35,9 @@ print("이름은 \(boy!.name!)입니다")
  
 ```swift
 if let b = boy {
-if let name = b.name {
-print("이름은 \(name)입니다")
-}
+    if let name = b.name {
+        print("이름은 \(name)입니다")
+    }
 }
 ```
 
@@ -67,9 +67,9 @@ startup에 정상 값이 할당되어 있다면 위 구문의 실행 결과로 C
 
 ```swift
 if let company = startup {
-if let ceo = company.ceo {
+    if let ceo = company.ceo {
 
-}
+    }
 }
 ```
 
@@ -77,11 +77,11 @@ if let ceo = company.ceo {
 
 ```swift
 if let company = startup {
-if let ceo = company.ceo {
-if let name = ceo.name {
-print("대표이사의 이름은 \(name)입니다")
-}
-}
+    if let ceo = company.ceo {
+        if let name = ceo.name {
+            print("대표이사의 이름은 \(name)입니다")
+        }
+    }
 }
 ```
 
@@ -89,7 +89,7 @@ print("대표이사의 이름은 \(name)입니다")
 
 ```swift
 if let name = startup!.ceo!.name {
-print("대표이사의 이름은 \(name)입니다")
+    print("대표이사의 이름은 \(name)입니다")
 }
 ```
 
@@ -125,6 +125,6 @@ startup?.ceo?.name
 
 ```swift
 if let name = startup?.ceo?.name {
-print("대표이사의 이름은 \(name)입니다")
+    print("대표이사의 이름은 \(name)입니다")
 }
 ```
