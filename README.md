@@ -22,7 +22,7 @@
 4. 함수를 좀 더 자세히 알아보기     [Ch_2 function3.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch2_function3.md)
    - 파라미터 기본 값 지정하기
    - 내부 파라미터와 외부 파라미터   [Ch_2 function4.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch2_function4.md)
-   - 가변 파라미터
+   - 가변 파라미터    [Ch_2 function5.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch2_function5.md)
    - 상수로 정의된 파라미터와 inout 파라미터
 5. Optional(옵셔널) 과 Tuple(투플)
    - Function(함수)에서 Optional(옵셔널)로 반환하기
