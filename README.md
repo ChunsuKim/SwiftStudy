@@ -42,7 +42,7 @@
    - 할당 연산자
    - 논리 연산자
 3. Conditional Operator(조건 연산자)와 is (자료형 확인 연산자)    [Ch3_operator2.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch3_operator2.md)
-4. Rage Operator(범위 연산자)
+4. Rage Operator(범위 연산자)    [Ch3_operator3.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch3_operator3.md)
 5. if (if 조건문)
 
 
