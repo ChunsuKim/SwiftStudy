@@ -34,7 +34,7 @@
 
 > ### Ch_3 operator1.md ~ Ch_3 operator4.md
 
-1. Comparative Operator(비교 연산자)와 Arithmetic Operator(산술 연산자)
+1. Comparative Operator(비교 연산자)와 Arithmetic Operator(산술 연산자)    [Ch3_operator1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch3_operator1.md)
    - 동일 연산자
    - 비교 연산자
    - 산술 연산자
