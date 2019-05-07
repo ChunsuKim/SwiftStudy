@@ -54,7 +54,7 @@
 1. 함수를 다시 한 번 꼼꼼히 생각해 보기    [Ch4_classes1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes1.md)
 2. 클래스의 역할  
 3. 클래스와 인스턴스    [Ch4_classes2_0.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes2_0.md)
-4. 인스턴스가 만들어질 때 기능 수행
+4. 인스턴스가 만들어질 때 기능 수행   [Ch4_classes2_1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes2_1.md)
    - 객체 자료형의 비교
 5. 객체의 속성
    - Stored Properties(저장 속성)
