@@ -51,7 +51,7 @@
 
 > ### Ch4_classes1.md ~ Ch4_classes9.md
 
-1. 함수를 다시 한 번 꼼꼼히 생각해 보기
+1. 함수를 다시 한 번 꼼꼼히 생각해 보기    [Ch4_classes1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes1.md)
 2. 클래스의 역할
 3. 클래스와 인스턴스
 4. 인스턴스가 만들어질 때 기능 수행
