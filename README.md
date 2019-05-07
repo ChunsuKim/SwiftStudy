@@ -56,7 +56,7 @@
 3. 클래스와 인스턴스    [Ch4_classes2_0.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes2_0.md)
 4. 인스턴스가 만들어질 때 기능 수행   [Ch4_classes2_1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes2_1.md)
    - 객체 자료형의 비교
-5. 객체의 속성
+5. 객체의 속성   [Ch4_classes3.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes3.md)
    - Stored Properties(저장 속성)
    - Computed Properties(계산 속성)
    - Property Observer(속성 옵저버)
