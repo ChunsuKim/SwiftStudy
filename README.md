@@ -58,7 +58,7 @@
    - 객체 자료형의 비교
 5. 객체의 속성   [Ch4_classes3.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes3.md)
    - Stored Properties(저장 속성)
-   - Computed Properties(계산 속성)
+   - Computed Properties(계산 속성) [Ch4_classes4.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes4.md)
    - Property Observer(속성 옵저버)
    - Type Properties(타입 속성)
    - Type Method(타입 메소드)
