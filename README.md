@@ -65,7 +65,7 @@
 6. Structure(구조체) 사용    [Ch4_classes6.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes6.md)
 7. Enumeration(enum)으로 열거형 만들기  [Ch4_classes7.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes7.md)
    - 열거형을 조금 다르게 만들어 사용하기   [Ch4_classes8.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes8.md)
-   [Ch4_classes9.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes9.md)
+   [/ Ch4_classes9.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes9.md)
 
 
 
