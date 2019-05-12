@@ -83,7 +83,7 @@
    - 여러 데이터를 각각의 변수에 넣기 [Ch5_array2.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_array2.md)
 2. 배열 다루기   [Ch5_array3.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_array3.md)
    - 배열의 크기 확인하기
-   - 배열의 원소를 확인하거나 추가하기
+   - 배열의 원소를 확인하거나 추가하기 [Ch5_array5.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_array4.md)
    - 함수의 파라미터로 변수에 할당된 배열 전달하기
    - 값 전달 방식으로 동작하는 배열
 3. 배열 안에 배열 넣기
