@@ -86,7 +86,7 @@
    - 배열의 원소를 확인하거나 추가하기 [Ch5_array4.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_array4.md)
    - 함수의 파라미터로 변수에 할당된 배열 전달하기  [Ch5_array5.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_array5.md)
    - 값 전달 방식으로 동작하는 배열
-3. 배열 안에 배열 넣기
+3. 배열 안에 배열 넣기 [Ch5_array6.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_array6.md)
 4. Dictionary(딕셔너리)에 들어 있는 값 빨리 찾기
    - Key-Value and Hashtable
    - Dictionary(딕셔너리) 만들기
@@ -141,7 +141,6 @@
    - Protocol(프로토콜) 사용하기
    - 프로토콜에 추가할 수 있는 것들
    - 프로토콜의 상속
-
 
 
 
