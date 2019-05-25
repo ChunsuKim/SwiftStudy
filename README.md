@@ -91,7 +91,7 @@
    - Key-Value and Hashtable
    - Dictionary(딕셔너리) 만들기   [Ch5_dictionary2.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_dictionary2.md)
    - Dictionary(딕셔너리)에 전화번호부 데이터 넣기 [Ch5_dictionary3.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_dictionary3.md)
-5. Set(셋)에 데이터 넣어두기 [Ch5_set1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_set1.md) [Ch5_set2.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_set2.md)
+5. Set(셋)에 데이터 넣어두기 [Ch5_set1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_set1.md) [/ Ch5_set2.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_set2.md)
 6. Conditional Statement(조건문)과 반복문 정리하기
    - if 문
    - if 문에서 바인딩 사용하기
