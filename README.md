@@ -90,7 +90,7 @@
 4. Dictionary(딕셔너리)에 들어 있는 값 빨리 찾기  [Ch5_dictionary1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_dictionary1.md)
    - Key-Value and Hashtable
    - Dictionary(딕셔너리) 만들기   [Ch5_dictionary2.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_dictionary2.md)
-   - Dictionary(딕셔너리)에 전화번호부 데이터 넣기
+   - Dictionary(딕셔너리)에 전화번호부 데이터 넣기 [Ch5_dictionary3.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_dictionary3.md)
 5. Set(셋)에 데이터 넣어두기
 6. Conditional Statement(조건문)과 반복문 정리하기
    - if 문
