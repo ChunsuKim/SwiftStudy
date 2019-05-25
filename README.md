@@ -95,7 +95,7 @@
 6. Conditional Statement(조건문)과 반복문 정리하기
    - if 문   [Ch5_if1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_if1.md)
    - if 문에서 바인딩 사용하기
-   - for 문
+   - for 문  [Ch5_for1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_for1.md)
    - while 문
    - switch 문
    - guard 문
