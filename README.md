@@ -97,7 +97,7 @@
    - if 문에서 바인딩 사용하기
    - for 문  [Ch5_for1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_for1.md)
    - while 문    [Ch5_while1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_while1.md)
-   - switch 문
+   - switch 문   [Ch5_switch1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_switch1.md)
    - guard 문
 
 
