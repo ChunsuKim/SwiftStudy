@@ -106,7 +106,7 @@
 
 > ### Ch6_advanced1.md ~ Ch6_advanced6.md
 
-1. 함수는 변수에 할당할 수 있어요
+1. 함수는 변수에 할당할 수 있어요    [Ch6_advanced1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch6_advanced1.md)
    - 함수를 변수에 할당하기
    - 함수를 파라미터로 전달하기
    - 함수 실행 결과를 함수로 반환 받기
