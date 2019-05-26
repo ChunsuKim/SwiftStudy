@@ -98,7 +98,7 @@
    - for 문  [Ch5_for1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_for1.md)
    - while 문    [Ch5_while1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_while1.md)
    - switch 문   [Ch5_switch1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_switch1.md)
-   - guard 문
+   - guard 문    [Ch5_guard1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_guard1.md)
 
 
 
