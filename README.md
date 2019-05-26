@@ -110,7 +110,7 @@
    - 함수를 변수에 할당하기
    - 함수를 파라미터로 전달하기 [Ch6_advanced2.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch6_advanced2.md)
    - 함수 실행 결과를 함수로 반환 받기    [Ch6_advanced3.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch6_advanced3.md)
-2. 클로저 이해하기
+2. 클로저 이해하기 [Ch6_advanced4.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch6_advanced4.md)
    - Nested Funtion(중첩 함수)와 Execution Context(실행 컨텍스트)
    - 일반적인 의미의 Closure(클로저)
    - Swift Closure (스위프트의 클로저)
