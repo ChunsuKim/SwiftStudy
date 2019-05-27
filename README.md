@@ -114,7 +114,7 @@
    - Nested Funtion(중첩 함수)와 Execution Context(실행 컨텍스트)
    - 일반적인 의미의 Closure(클로저)
    - Swift Closure (스위프트의 클로저)  [Ch6_advanced5.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch6_advanced5.md)
-   - 클로저를 변수에 할당하거나 함수에서 반환하기
+   - 클로저를 변수에 할당하거나 함수에서 반환하기   [Ch6_advanced6.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch6_advanced6.md)
 
 
 
