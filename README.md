@@ -126,7 +126,7 @@
 >
 > ### Ch7_protocol1.md ~ Ch7_protocol3.md
 
-1. Inheritance(상속)
+1. Inheritance(상속)  [Ch7_inheritance1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch7_inheritance1.md)
    - 상속의 의미
    - 클래스의 초기화 함수 정리하기
    - 상속한 클래스의 초기화 함수
