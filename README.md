@@ -139,7 +139,7 @@
 4. Protocol(프로토콜)은 언제 사용할까? [Ch7_protocol1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch7_protocol1.md)
    - Encapsulation(캡슐화) 이해하기
    - Protocol(프로토콜) 사용하기
-   - 프로토콜에 추가할 수 있는 것들
+   - 프로토콜에 추가할 수 있는 것들  [Ch7_protocol2.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch7_protocol2.md)
    - 프로토콜의 상속
 
 
