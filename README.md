@@ -135,7 +135,7 @@
    - 객체의 자료형 확인
    - 객체의 자료형을 바꾸기
    - Any와 AnyObject
-   - Generic(제네릭)
+   - Generic(제네릭)   [Ch7_generic1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch7_generic1.md)
 4. Protocol(프로토콜)은 언제 사용할까?
    - Encapsulation(캡슐화) 이해하기
    - Protocol(프로토콜) 사용하기
