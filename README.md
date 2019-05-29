@@ -130,7 +130,7 @@
    - 상속의 의미
    - 클래스의 초기화 함수 정리하기
    - 상속한 클래스의 초기화 함수    [Ch7_inheritance2.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch7_inheritance2.md)
-2. Method(메소드) 재정의와 추가하기    [Ch7_inheritance3.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch7_inheritance3.md)
+2. Method(메소드) 재정의와 추가하기    [Ch7_inheritance3.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch7_inheritance3.md) [/ Ch7_inheritance4.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch7_inheritance4.md)
 3. Object(객체)의 형 변환
    - 객체의 자료형 확인
    - 객체의 자료형을 바꾸기
