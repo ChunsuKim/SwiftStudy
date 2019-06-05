@@ -101,7 +101,7 @@ Appendix.Classes and Structures [Appendix.ClassAndStructure.md 파일보기](htt
    - switch 문   [Ch5_switch1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_switch1.md)
    - guard 문    [Ch5_guard1.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch5_guard1.md)
 
-
+Appendix.Array  [Appendix.Array.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Appendix.Array.md)
 
 ### Chapter 6 일급 객체로서의 function(함수)와 closure(클로저) 다루기 
 
