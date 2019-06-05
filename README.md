@@ -67,6 +67,7 @@
    - 열거형을 조금 다르게 만들어 사용하기   [Ch4_classes8.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes8.md)
    [/ Ch4_classes9.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch4_classes9.md)
 
+Appendix.Classes and Structures [Appendix.ClassAndStructure.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Appendix.ClassAndStructure.md)
 
 
 ### Chapter 5 여러 데이터를 논리에 맞게 처리하기
@@ -142,6 +143,10 @@
    - 프로토콜에 추가할 수 있는 것들  [Ch7_protocol2.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Ch7_protocol2.md)
    - 프로토콜의 상속
 
+
+### Appdendix
+
+Appendix.Classes and Structures [Appendix.ClassAndStructure.md 파일보기](https://github.com/ChunsuKim/SwiftStudy/blob/master/Appendix.ClassAndStructure.md)
 
 
 
